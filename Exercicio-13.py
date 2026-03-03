@@ -8,5 +8,5 @@ diasConsumido = int(input("Quando a pessoa vai comer, sabendo que ela come 50g p
 
 res = quilos - (diasConsumido * 0.05)
 
-print("De", quilos, "kg depois de", diasConsumido, "sobreu", res)
+print("De", quilos, "kg depois de", diasConsumido, "sobrou", res)
 #Fim
